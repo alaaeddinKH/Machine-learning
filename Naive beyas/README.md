@@ -1,7 +1,7 @@
 
 # Classification with Naive Bayes
 
-One of the tasks that I completed in the data mining lesson from the third grade of the computer science branch at Dokuz eylul University, and the data set was divided into training data and test set
+One of the tasks that I completed in the data mining lesson from the third grade of the computer science branch at Dokuz eylul University, and the data set was divided into train data and test set
 During this task, the following was accomplished:
 1- An exploratory analysis of the data
 2- Dealing with missing values
