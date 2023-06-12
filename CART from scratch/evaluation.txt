@@ -1,0 +1,12 @@
+Eğitim (train) sonucu:
+acc is :0.5755102040816327
+true positive count is :5
+true positive rate is :0.5
+true negative count is :277
+true negative rate is :0.5770833333333333
+sınama (test) sonucu:
+acc is :0.51
+true positive count is :1
+true positive rate is :1.0
+true negative count is :101
+true negative rate is :0.507537688442211
